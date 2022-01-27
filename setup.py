@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='systemInformation.py',
+setup(name='systemInformation',
       version='0.1',
       description='System Information',
       url='fileFolder\__init__.py',
